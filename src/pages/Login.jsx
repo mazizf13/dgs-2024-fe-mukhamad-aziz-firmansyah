@@ -74,7 +74,9 @@ const Login = () => {
       <div className="items-center lg:flex hidden">
         <div>
           <h1 className="text-5xl font-semibold">Simple Budgeting App</h1>
-          <p>Like seriously, this web app is sooooooooo simple.</p>
+          <p className="text-2xl mt-2">
+            Like seriously, this web app is sooooooooo simple, but tricky.
+          </p>
         </div>
       </div>
     </div>
