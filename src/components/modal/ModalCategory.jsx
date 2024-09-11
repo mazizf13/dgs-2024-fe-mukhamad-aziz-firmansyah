@@ -29,7 +29,7 @@ const ModalCategory = ({ name, wallet, date }) => {
             </p>
           </>
         ) : (
-          <p className="text-gray-400">This category has no wallet detail.</p>
+          <p className="text-gray-400">This category has no wallet detail!</p>
         )}
       </div>
     </div>
